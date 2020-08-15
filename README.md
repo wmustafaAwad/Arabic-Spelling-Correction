@@ -9,9 +9,6 @@ The code mainly implements:
 
 ### I 'll be back to:
 * Add better documentation and how-to-use
-* Currently the code only works for edit distances = 0,1,2,3 only. I will add a more general code.
-* Add classes instead of this code spaghetti :'D
-* Add Levenshtein distance filtering to enable Levenshtein-only distance in the Symspell Algorithm (instead of Damareu-Levenshtein default).
 
 ### Possible improvements:
 * Use static array (instead of vector) for suggested words -- with maximum number of suggested words
