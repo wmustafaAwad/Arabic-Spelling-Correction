@@ -19,7 +19,7 @@ The code mainly implements:
 * https://towardsdatascience.com/symspell-vs-bk-tree-100x-faster-fuzzy-string-search-spell-checking-c4f10d80a078
 
 ### Acknowledgements:
-* Engineer Tamer Ali from Asas El Qarar for his feedcback on my code.
+* Engineer Tamer Ali from Asas El Qarar for his feedback on my code.
 
 -------------------------------------
 If you need to use the code and couldn't, please contact me: wmustafaawad@gmail.com
